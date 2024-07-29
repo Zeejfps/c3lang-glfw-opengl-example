@@ -1,0 +1,1 @@
+Simple example of interacting with GLFW and OpenGL in C3 without using any external libraries
